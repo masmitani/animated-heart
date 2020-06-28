@@ -1,1 +1,1 @@
-# animated-heart
+# Assignments 1 & 2
